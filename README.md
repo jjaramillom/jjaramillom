@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">Hi, there 👋</h2>
 
-<!--
-**jjaramillom/jjaramillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<p >My name is Jacobo, and I'm a Colombian Software Engineer, currently based in Munich.</p>
 
-Here are some ideas to get you started:
+<p >I'm focused on <b>
+ JavaScript
+</b>
+ (actually <b>
+ <b>
+ TypeScript
+</b>
+</b>). Both Backend and Frontend, I love sitting in front of my keyboard and just let my mind fly.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I'm interested mostly on <b>industry-related</b>
+ topics (deep down I still remain an Electronic Enginer). If you have a cool project in mind, or are looking for contributors for your project, and you think I might be a good match, just drop me a message.</p>
+</div>
