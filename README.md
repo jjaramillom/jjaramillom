@@ -1,7 +1,7 @@
 <h2 align="center">Hi, there 👋</h2>
 
 <div align="center">
-<p >My name is Jacobo, and I'm a Colombian Software Engineer, currently based in Munich.</p>
+<p >My name is Jacobo, and I'm a Colombian Software Engineer. I was in Germany for the last 4 years, and a couple of months ago I moved back (temporarily) to my homecountry, Colombia.</p>
 
 <p >I'm focused on <b>
  JavaScript
